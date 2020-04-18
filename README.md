@@ -18,7 +18,7 @@
 
 如果有疑问可以私信联系我：公众号：小雨编程
 
-> ![123.png](http://ww1.sinaimg.cn/thumbnail/005NKUZGgy1gdy8q02i2gj30hm0hq0y4.jpg)
+<img width="600px" src="http://ww1.sinaimg.cn/large/005NKUZGgy1gdyb1you1gj30go0gsdk8.jpg"></img>
 
 ----
 
