@@ -11,11 +11,11 @@
 
 
 
-[视频演示效果传送门](https://www.bilibili.com/video/av91541332/)
+[人脸识别视频演示效果传送门](https://www.bilibili.com/video/av91541332/)
 
-[视频制作教程传送门](https://www.bilibili.com/video/bv1U741127yV)
+[人脸识别教程视频传送门](https://www.bilibili.com/video/bv1U741127yV)
 
-[整体效果演示传送门](https://www.bilibili.com/video/BV19a4y1x7q7/)
+[项目整体效果演示传送门](https://www.bilibili.com/video/BV19a4y1x7q7/)
 
 如果有疑问可以联系我：公众号：xiaoxiaoyu1926
 
