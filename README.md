@@ -2,12 +2,11 @@
 树莓派和Arduino人脸识别门禁，主要文件结构
 
 * 树莓派人脸识别控制部分 test.py
-
 * 树莓派蓝牙控制 bluetooth_test.py
 
 * Arduino舵机控制代码 arduino_control.ino
-语音播报库voice.h
-功能函数function_test.h
+* 语音播报库voice.h
+* 功能函数function_test.h
 
 
 
