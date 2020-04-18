@@ -18,7 +18,7 @@
 
 如果有疑问可以私信联系我：公众号：小雨编程
 
-> ![屏幕快照 2020-04-18 下午9.19.35.png](http://ww1.sinaimg.cn/large/005NKUZGgy1gdy8oi8n9cj308c08gmyw.jpg)
+> ![123.png](http://ww1.sinaimg.cn/thumbnail/005NKUZGgy1gdy8q02i2gj30hm0hq0y4.jpg)
 
 ----
 
