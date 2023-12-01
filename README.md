@@ -1,4 +1,4 @@
-### samrt_home_sysytem
+### smart_home_sysytem
 树莓派和Arduino人脸识别门禁，主要文件结构
 
 * 树莓派人脸识别控制部分 test.py
